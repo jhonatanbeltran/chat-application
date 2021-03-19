@@ -1,4 +1,4 @@
-import { ChatEngine, ChatFeed } from "react-chat-engine";
+import { ChatEngine, ChatFeed } from  'react-chat-engine';
 
 import ChatFeed from './components/ChatFeed';
 
@@ -16,3 +16,4 @@ const App = () => {
     );
 };
 
+export default App;
